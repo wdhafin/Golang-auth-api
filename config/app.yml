@@ -1,0 +1,8 @@
+route:
+  restricted: "restricted"
+  public: "public"
+auth:
+  accessSecret: "eFisheryTest"
+  refreshSecret: "eFisheryTest"
+  accessExpiry: 10h # in minutes, default to 15 minutes
+  refreshExpiry: 8760h # in hours, default to 6 months
