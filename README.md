@@ -16,7 +16,7 @@ Start by cloning this repository
 
 ```sh
 # HTTPS
-$ git clone https://github.com/wdhafin/eFishery-test.git
+$ git clone https://github.com/wdhafin/Golang-auth-api.git
 ```
 
 install goose and run migration

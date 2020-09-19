@@ -6,7 +6,7 @@ import (
 
 	"github.com/go-playground/validator/v10"
 	"github.com/labstack/echo/v4"
-	"github.com/wdhafin/eFishery-test/schema"
+	"github.com/wdhafin/Golang-auth-api/schema"
 )
 
 //ParsingError is

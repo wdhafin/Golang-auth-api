@@ -3,9 +3,9 @@ package store
 import (
 	"fmt"
 
-	"github.com/wdhafin/eFishery-test/entity"
-	"github.com/wdhafin/eFishery-test/internal/db"
-	"github.com/wdhafin/eFishery-test/module/auth"
+	"github.com/wdhafin/Golang-auth-api/entity"
+	"github.com/wdhafin/Golang-auth-api/internal/db"
+	"github.com/wdhafin/Golang-auth-api/module/auth"
 )
 
 type pgRepository struct {

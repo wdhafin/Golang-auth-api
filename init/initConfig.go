@@ -7,7 +7,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 
-	"github.com/wdhafin/eFishery-test/pkg/utils"
+	"github.com/wdhafin/Golang-auth-api/pkg/utils"
 )
 
 // setupMainConfig loads app config to viper

@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/spf13/viper"
-	"github.com/wdhafin/eFishery-test/pkg/logger"
+	"github.com/wdhafin/Golang-auth-api/pkg/logger"
 )
 
 // setupAuthHelper inits

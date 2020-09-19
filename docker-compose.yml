@@ -9,6 +9,6 @@ services:
     ports:
       - "8080:8080"
     environment:
-      GO_WORK_DIR: "/github.com/wdhafin/eFishery-test"
+      GO_WORK_DIR: "/github.com/wdhafin/Golang-auth-api"
       HTTP_HANDLER: "TRUE"
     restart: unless-stopped

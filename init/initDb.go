@@ -5,8 +5,8 @@ import (
 
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
-	"github.com/wdhafin/eFishery-test/internal/db"
-	"github.com/wdhafin/eFishery-test/pkg/utils"
+	"github.com/wdhafin/Golang-auth-api/internal/db"
+	"github.com/wdhafin/Golang-auth-api/pkg/utils"
 )
 
 // ConnectToPGServer is a function to init PostgreSQL connection

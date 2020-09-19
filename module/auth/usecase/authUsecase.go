@@ -6,11 +6,11 @@ import (
 
 	"github.com/spf13/viper"
 	"github.com/thanhpk/randstr"
-	"github.com/wdhafin/eFishery-test/entity"
-	"github.com/wdhafin/eFishery-test/module/auth"
-	"github.com/wdhafin/eFishery-test/pkg/helper"
-	"github.com/wdhafin/eFishery-test/pkg/utils"
-	"github.com/wdhafin/eFishery-test/schema"
+	"github.com/wdhafin/Golang-auth-api/entity"
+	"github.com/wdhafin/Golang-auth-api/module/auth"
+	"github.com/wdhafin/Golang-auth-api/pkg/helper"
+	"github.com/wdhafin/Golang-auth-api/pkg/utils"
+	"github.com/wdhafin/Golang-auth-api/schema"
 )
 
 // AuthUsecase will create a usecase with its required repo

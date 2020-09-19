@@ -5,8 +5,8 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/spf13/viper"
-	"github.com/wdhafin/eFishery-test/entity"
-	"github.com/wdhafin/eFishery-test/schema"
+	"github.com/wdhafin/Golang-auth-api/entity"
+	"github.com/wdhafin/Golang-auth-api/schema"
 )
 
 // ApplicationName is for JWT Application Name

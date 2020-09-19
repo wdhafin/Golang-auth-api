@@ -1,6 +1,6 @@
 package auth
 
-import "github.com/wdhafin/eFishery-test/entity"
+import "github.com/wdhafin/Golang-auth-api/entity"
 
 // Repository represent the userauthentication's repository contract
 type Repository interface {

@@ -7,7 +7,7 @@ import (
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 	"github.com/spf13/viper"
-	"github.com/wdhafin/eFishery-test/pkg/helper"
+	"github.com/wdhafin/Golang-auth-api/pkg/helper"
 )
 
 // EchoCustomMiddleware is

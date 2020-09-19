@@ -4,10 +4,10 @@ import (
 	"github.com/jinzhu/copier"
 	echo "github.com/labstack/echo/v4"
 	"github.com/spf13/viper"
-	"github.com/wdhafin/eFishery-test/entity"
-	"github.com/wdhafin/eFishery-test/module/auth/usecase"
-	"github.com/wdhafin/eFishery-test/pkg/utils"
-	"github.com/wdhafin/eFishery-test/schema"
+	"github.com/wdhafin/Golang-auth-api/entity"
+	"github.com/wdhafin/Golang-auth-api/module/auth/usecase"
+	"github.com/wdhafin/Golang-auth-api/pkg/utils"
+	"github.com/wdhafin/Golang-auth-api/schema"
 )
 
 // AuthHandler  represent the httphandler for article

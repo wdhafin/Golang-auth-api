@@ -3,17 +3,17 @@ package main
 import (
 	"os"
 
-	appMiddleware "github.com/wdhafin/eFishery-test/middleware"
+	appMiddleware "github.com/wdhafin/Golang-auth-api/middleware"
 
 	"github.com/labstack/echo/v4"
 	"github.com/spf13/viper"
-	appInit "github.com/wdhafin/eFishery-test/init"
+	appInit "github.com/wdhafin/Golang-auth-api/init"
 
-	_auth "github.com/wdhafin/eFishery-test/module/auth/usecase"
+	_auth "github.com/wdhafin/Golang-auth-api/module/auth/usecase"
 
-	_authHttpHandler "github.com/wdhafin/eFishery-test/module/auth/handler/http"
+	_authHttpHandler "github.com/wdhafin/Golang-auth-api/module/auth/handler/http"
 
-	_authRepo "github.com/wdhafin/eFishery-test/module/auth/store"
+	_authRepo "github.com/wdhafin/Golang-auth-api/module/auth/store"
 )
 
 func init() {
